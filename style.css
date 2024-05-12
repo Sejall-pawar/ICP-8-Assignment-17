@@ -5,7 +5,7 @@
     align-items: center;
     flex-wrap: wrap;
 }
-.movie-container{
+.movie-container1{
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
@@ -13,7 +13,7 @@
     flex-wrap: wrap;
 }
 
-.movie-container1{
+.movie-container2{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -21,7 +21,7 @@
     flex-wrap: wrap;
 }
 
-.movie-container1{
+.movie-container3{
     display: flex;
     flex-direction: column-reverse;
     justify-content: space-around;
